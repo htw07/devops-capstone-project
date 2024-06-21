@@ -27,6 +27,8 @@ HTTPS_ENVIRON = {'wsgi.url_scheme': 'https'}
 ######################################################################
 
 class TestAccountService(TestCase):
+
+
     """Account Service Tests"""
 
     @classmethod
